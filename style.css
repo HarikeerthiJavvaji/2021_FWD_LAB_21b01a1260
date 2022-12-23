@@ -1,0 +1,14 @@
+.container {
+    background-color: black;
+    height: 35px;
+    display: flex;
+    justify-content: right;
+}
+
+.items {
+    color: white;
+    padding: 5px;
+    font-size: 16px;
+    margin: 5px;
+
+}
